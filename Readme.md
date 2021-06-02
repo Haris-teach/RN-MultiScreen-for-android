@@ -6,3 +6,8 @@
 
   
 ### Do not forget to run `yarn install` to install react and react native dependency
+
+# How to start?
+
+### Run command `yarn start`
+### Open a new terminal window and run `yarn android`
